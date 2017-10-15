@@ -1,8 +1,8 @@
 {
   "name": "reveal.js",
   "version": "3.5.0",
-  "description": "The HTML Presentation Framework",
-  "homepage": "http://lab.hakim.se/reveal-js",
+  "description": "Apresentação EngeFour",
+  "homepage": "http://engefourjunior.com.br",
   "subdomain": "revealjs",
   "main": "js/reveal.js",
   "scripts": {
@@ -11,13 +11,13 @@
     "build": "grunt"
   },
   "author": {
-    "name": "Hakim El Hattab",
-    "email": "hakim.elhattab@gmail.com",
-    "web": "http://hakim.se"
+    "name": "Caique Minhare",
+    "email": "caique.minhareb@gmail.com",
+    "web": "http://engefourjunior.com.br"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hakimel/reveal.js.git"
+    "url": "git://github.com/caiqueminhare"
   },
   "engines": {
     "node": ">=4.0.0"
